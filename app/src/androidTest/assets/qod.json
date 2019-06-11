@@ -1,0 +1,23 @@
+{
+  "success": {
+    "total": 1
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "I came from a real tough neighborhood. Once a guy pulled a knife on me. I knew he wasn't a professional, the knife had butter on it.",
+        "author": "eoin ahern",
+        "length": "199",
+        "tags": [
+          "challenge",
+          "inspire"
+        ],
+        "category": "inspire",
+        "title": "Inspiring Quote of the day",
+        "date": "2019-06-11",
+        "id": null
+      }
+    ],
+    "copyright": "2017-19 theysaidso.com"
+  }
+}
